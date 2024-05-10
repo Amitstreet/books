@@ -11,6 +11,13 @@ export default {
   darkMode: "class",
   plugins: [
     require('preline/plugin'),
+    
+
+
+    
 ],
 }
+
+
+
 
